@@ -1,3 +1,4 @@
+init(1);
 start();
 print("HELLO WORLD!");
 print("HI");
