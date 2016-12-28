@@ -3,5 +3,5 @@ start();
 print("HELLO WORLD!");
 print("HI");
 print("HELLO MY DEAR FRIENDS!");
-print("Glad to see you!");
+print("Glad to see you in place!");
 close();
